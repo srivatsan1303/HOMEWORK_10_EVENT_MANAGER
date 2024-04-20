@@ -1,31 +1,41 @@
 # Documention
 
-## Issue1 - Register and Login Failed due to Internal Server Error
+## Issue_1 - Register and Login Failed due to Internal Server Error
 -[Issue_link](https://github.com/srivatsan1303/HOMEWORK_10_EVENT_MANAGER/issues/1)
+
 -[fix_for_issue](https://github.com/srivatsan1303/HOMEWORK_10_EVENT_MANAGER/commit/4170dbf4219c79d40053f63ed8e19a234dc4f12d)
+
 -[documentation](https://github.com/srivatsan1303/HOMEWORK_10_EVENT_MANAGER/blob/main/Issue_1_Readme.md)
 
-## Issue2 - The URL for the profile image is not getting changed.
+## Issue_2 - The URL for the profile image is not getting changed.
 -[Issue_link](https://github.com/srivatsan1303/HOMEWORK_10_EVENT_MANAGER/issues/3)
+
 -[fix_for_issue](https://github.com/srivatsan1303/HOMEWORK_10_EVENT_MANAGER/commit/53cc6f646ad23b10574f432ed5a0d6fab97ef66b)
+
 -[documentation](https://github.com/srivatsan1303/HOMEWORK_10_EVENT_MANAGER/blob/main/profile_url_not_getting_updated.md)
 
-## Issue3 - Fields are showing as null when fetching user details.
+## Issue_3 - Fields are showing as null when fetching user details.
 -[Issue_link](https://github.com/srivatsan1303/HOMEWORK_10_EVENT_MANAGER/issues/5)
+
 -[fix_for_issue](https://github.com/srivatsan1303/HOMEWORK_10_EVENT_MANAGER/commit/141a026ffdb41e0839bd6d32642fdc4f15c24780)
+
 -[documentation](https://github.com/srivatsan1303/HOMEWORK_10_EVENT_MANAGER/blob/main/some_fields_showing_null_issue_readme.md)
 
-## Issue4 - Anonymous User Role
+## Issue_4 - Anonymous User Role
 -[Issue_link](https://github.com/srivatsan1303/HOMEWORK_10_EVENT_MANAGER/issues/7)
+
 -[fix_for_issue](https://github.com/srivatsan1303/HOMEWORK_10_EVENT_MANAGER/commit/59bd8588c166b261c8601d4ad6d4c62a2bafe3de)
+
 -[documentation](https://github.com/srivatsan1303/HOMEWORK_10_EVENT_MANAGER/blob/main/Anonymous_User_Role_issue_readme.md)
 
-## Issue5 - User creation Error
+## Issue_5 - User creation Error
 -[Issue_link](https://github.com/srivatsan1303/HOMEWORK_10_EVENT_MANAGER/issues/9)
+
 -[fix_for_issue](https://github.com/srivatsan1303/HOMEWORK_10_EVENT_MANAGER/commit/6f22d4e8f5ecf9b686c569e408225b6c354873e1)
+
 -[documentation](https://github.com/srivatsan1303/HOMEWORK_10_EVENT_MANAGER/blob/main/User_creation_Error_Issue_readme.md)
 
-## Issue6 - Error from the video
+## Issue_6 - Error from the video
 Its already fixed by the professor and no changes are required for that issue.
 
 ## Image in docker
